@@ -12,9 +12,6 @@ This project is a sports website that allows users to upload their details and r
 ## Technologies Used
 - HTML
 - CSS
-- JavaScript
-- [Any backend technology if applicable, e.g., Node.js, PHP]
-- [Database if used, e.g., MongoDB, MySQL]
 
 ## Getting Started
 To get a local copy up and running, follow these steps:
