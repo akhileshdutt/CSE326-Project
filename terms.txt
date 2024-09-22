@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Sports Club terms and conditions</h1>
+    <p>These Terms and Conditions shall apply to Your use of the website located at Sports Club and its related channels, which includes use of your Sports Club iD on any Sports Club platform ("the Sports Club Site").
+        By using the Sports Club Site or your Sports Club iD in accordance these terms and conditions, You agree to be bound by the terms and conditions set out below. If You do not wish to be bound by these terms and conditions, You should not use the Sports Club Site or your Sports Club iD.
+        We may change these Terms and Conditions from time to time and so you should check these regularly. Your use of the Sports Club Site and/or your Sports Club iD will be deemed an acceptance of the terms existing at that time.
+        As part of our commitment to ensuring the Sports Club Site is one You want to visit time and time again, We welcome your comments on any of the policies or rules set out below.
+        </p>
+        <h3>1. Definitions</h3>
+        <p>"You" means you, the user of the Sports Club Site and "Your" shall be interpreted accordingly. "We/Us" means Sports Club UK Limited of Grant Way, Isleworth, Middlesex TW7 5QD (except in sections 6 and 11) and "Our" shall be interpreted accordingly. "Sports Club Site" shall have the meaning as set out above. "User Information" means the personal details, which may be provided by You to Us via the Sports Club Site.
+         "Users" means the users of the Sports Club Site collectively and/or individually as the context admits. "Website" means a site on the World Wide Web.</p>
+         <h3>2. Acceptable Use</h3>
+         <p>You agree that any use by You of the Sports Club Site shall be in accordance with the following conditions:
+            2.1 You will not post or transmit through the Sports Club Site any defamatory, threatening, obscene, harmful, pornographic or otherwise illegal material or material which would violate or infringe in any way upon our rights or those of others (including intellectual property rights, rights of confidentiality, or rights of privacy) or cause distress or inconvenience. You must not express opinions that are vulgar, crude, sexist, racist, unproven or unfounded allegations (especially of wrongdoing) or otherwise offensive. Always treat other Users with respect.
+            2.2 You must not upload, post, or otherwise transmit any content that includes any of the following inappropriate content:
+            a) Any personal information belonging either to you or another person, such as full name, address, phone number, email address;
+            b) Spam, such as advertisements for other web sites and services, or other commercial solicitation; chain letters, pyramid schemes, polls or petitions;
+            c) Flooding the forum boards with excessive posts, meaningless posts, posts unrelated to the topic or padding posts;
+            d) Discussions that veer off topic, are unrelated to resolving the issue at hand, are repetitive or campaigning, that promote products or services from other providers, or abuse any company or product;
+            e) Repetitive or continuous complaints about Sports Club policy;
+            f) Discussions of moderator actions on the boards. If you need to comment on a moderator action, please message any administrator/moderator;
+            g) Posting or transmitting any information or software containing a virus, worm, Trojan horse, or other damaging or destructive component;
+            h) Posting a link directing users to any information or content that, if posted on the Site would constitute a violation of the Guidelines or Terms of Use. Sports Club is not responsible for the content of any third party websites and users use of any hypertext links posted on the forum at their own risk.
+            i) Attacks, including "Flaming", of another user in such a way as to incite or perpetuate arguments or conflict; creating usernames to attack other users' identities; impersonating other individuals or falsely representing one's identity or qualifications; posts made under secondary user names or other aliases for the purpose of either endorsing or denigrating others; posts that breach any participant's privacy by including name, address, phone, email address, or any other identifying information.
+            j) Include URLs of third party websites which may contain offensive or illegal material.
+            k) Postings that break the law, or encourage/support breaking the law. This includes libel, contempt of court and breach of copyright.
+            l) Discussions regarding active UK court cases.
+            m) Advice that would result in a breach of any Sports Club product or equipment warranties.
+            n) Advice that would result in a breach of Sports Club subscription terms & conditions.
+            o) Advice that if followed could result in bodily injury or harm.
+            2.3 You must not evade bans or suspensions or otherwise disregard directions from moderators or administrators.
+            2.4 You agree not to use the Site (or any part of it) to:
+            a) Solicit personal information, email addresses, contact information, passwords or other personally identifying information.
+            b) Solicit participation in public discussion, debate, comment or activity outside this Site;
+            c) Provide false or misleading information about yourself or your business, or create a false identity or use or attempt to use another’s account or identity (including for the purposes of accessing the customer's account functionality – see Section 10).
+            2.5 We reserve the right to manage the postings on the Sports Club Communities including messages sent to other user via the message functionality to provide an orderly presentation of this information. To effectively manage the site, Sports Club may designate employees or others to act as moderators and administrators for the site ("Moderators"). These Moderators are the only representatives of Sports Club that are authorised to manage the Sports Club Communities. Any Sports Club employees who are not designated as Moderators or Employees are not authorised to represent themselves on the site as Sports Club employees. Authorised Sports Club Employees are distinguished by the Rank of "Employee" and/or an official Sports Club logo as an Avatar. Sports Club is not responsible for content provided by any Sports Club employee who is not designated as a Moderator or an Employee.
+            2.6 You will not post or otherwise make available on the Sports Club Site any material, which You do not own without the express permission of the owner of the material.
+            2.7 You will not copy, download, reproduce, republish, frame, broadcast, transmit in any manner whatsoever, any material on the Sports Club Site except as is strictly necessary for Your own personal non-commercial home use.
+            2.8 You will not access the Sports Club Site by automated means or otherwise for the purposes of scraping, extracting, or otherwise obtaining any material from the Sports Club Site (including TV listings) for use within a third party Website or application.
+            2.9 You will abide by the specific rules of any competition or promotion that You participate in on or via the Sports Club Site. Unless we tell you otherwise, all prize draws and competitions offered via the Sports Club Site are not open to people resident outside the United Kingdom.
+            2.10 You will not do anything that affects the operability or security of the Sports Club Site or causes unreasonable inconvenience or offence or disruption to our staff.
+            </p>
+</body>
+</html>

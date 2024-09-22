@@ -1,0 +1,137 @@
+<html>
+<title>hello world</title>
+<head>
+</head>
+<style>
+    *{
+	padding: 0;
+	margin: 0;
+}
+.wrapper{
+	background: url(552037.jpg) no-repeat;
+	background-size: cover;
+	height: 100vh;
+}
+.navbar{
+	position: fixed;
+	height: 80px;
+	width: 100%;
+	top: 0;
+	left: 0;
+	background: rgba(42, 126, 165, 0.4);
+}
+.navbar .logo{
+	width: 100px;
+	height: auto;
+	padding: 20px 80px
+}
+.navbar ul{
+	float: right;
+}
+.navbar ul li{
+	margin: 0 8px;
+	display: inline-block;
+	line-height: 80px;
+}
+.navbar ul li a{
+	font-size: 20px;
+	font-family: sans-serif;
+	color: white;
+	padding: 6px 13px;
+	text-decoration: none;
+	transition: 0.5s;
+}
+.navbar ul li a.active,
+.navbar ul li a:hover{
+	background: rgba(43, 32, 19, 0.333);
+	border-radius: 20px;
+}
+.wrapper .center{
+	position:absolute;
+	left: 50%;
+	top: 55%;
+	transform: translate(-50%, -50%);
+	font-family: sans-serif;
+}
+.center h2{
+	color: white;
+	font-size: 70px;
+	width: 900px;
+	font-weight: bold;
+	text-align: center;
+}
+.center h3{
+	color: white;
+	font-size: 70px;
+	font-weight: bold;
+	margin-top: 10px;
+	width: 885px;
+	text-align: center;
+}
+.Club{
+	font-family: sans-serif;
+	background-color: rgba(27, 4, 4, 0.4);
+	float: left;
+	border-style: solid;
+	height: 380px;
+	width: 300px;
+	margin-top: 200px;
+}
+.buttons{
+	margin: 30px;
+}
+.buttons button{
+	height: 50px;
+	width: 200px;
+	font-size: 20px;
+	font-weight: 600;
+	color: white;
+	background: black;
+	outline: none;
+	border-color: #050505;
+	border-radius: 50px;
+	margin-top: 5px;
+}
+.buttons .btn2{
+	margin-left: 205px;
+}
+.buttons button:hover{
+	background: #cc000055;
+}
+h1{
+	font-size: 28px;
+	color: aliceblue;
+}
+</style>
+<body>
+    <div class="wrapper">
+        <nav class="navbar">
+            <img class="logo" src="clipart2274341.png">
+            <ul>
+                <li><a class="active" href="project.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="registration.html">Subscription</a></li>
+                <li><a href="contact.html">Contact us</a></li>
+                <li><a href="terms&condetions.html">Terms and Conditions</a></li>
+
+            </ul>
+        </nav>
+        <div class="center">
+                <h2>Welcome to our</h2>
+                <h3>Sport's club</h3>
+        </div>
+        <div class="Club">
+            <ul class="buttons">
+                <h1 style="text-align: center">Club Registration</h1>
+                <br><br>   
+                <a href="cricket.html"><button type="button">Cricket</button></a><br>
+                <button type="button">FootBall</button><br>
+                <button type="button">Badminton</button><br>
+                <button type="button">BasketBall</button><br>
+                <button type="button">Tennis</button><br>
+            </ul>
+        </div>
+
+    </div>
+</body>
+</html>

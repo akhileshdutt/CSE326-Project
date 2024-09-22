@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sport's Club</title>
+    <link rel="stylesheet" href="cssproject.css">
+</head>
+<style>
+    *{
+	padding: 0;
+	margin: 0;
+}
+.wrapper{
+	background: url(552037.jpg) no-repeat;
+	background-size: cover;
+	height: 100vh;
+}
+.navbar{
+	position: fixed;
+	height: 80px;
+	width: 100%;
+	top: 0;
+	left: 0;
+	background: rgba(0,0,0,0.4);
+}
+.navbar .logo{
+	width: 140px;
+	height: auto;
+	padding: 20px 80px;
+}
+.navbar ul{
+	float: right;
+	margin-right: 20px;
+}
+.navbar ul li{
+	list-style: none;
+	margin: 0 8px;
+	display: inline-block;
+	line-height: 80px;
+}
+.navbar ul li a{
+	font-size: 20px;
+	font-family: 'Roboto', sans-serif;
+	color: white;
+	padding: 6px 13px;
+	text-decoration: none;
+	transition: .4s;
+}
+.navbar ul li a.active,
+.navbar ul li a:hover{
+	background: rgb(84, 77, 76);
+	border-radius: 2px;
+}
+.wrapper .center{
+	position: absolute;
+	left: 50%;
+	top: 55%;
+	transform: translate(-50%, -50%);
+	font-family: sans-serif;
+	user-select: none;
+}
+.center h2{
+	color: white;
+	font-size: 70px;
+	width: 900px;
+	font-weight: bold;
+	text-align: center;
+}
+.center h3{
+	color: white;
+	font-size: 70px;
+	font-weight: bold;
+	margin-top: 10px;
+	width: 885px;
+	text-align: center;
+}
+.Club{
+	font-family: 'Roboto', sans-serif;
+	background-color: rgba(0,0,0,0.4);
+	float: left;
+	border-style: solid;
+	height: 380px;
+	width: 300px;
+	margin-top: 200px;
+}
+.buttons{
+	margin: 40px;
+}
+.buttons button{
+	height: 50px;
+	width: 200px;
+	font-size: 20px;
+	font-weight: 600;
+	color: white;
+	background: black;
+	outline: none;
+	border-color: #050505;
+	border-radius: 10px;
+	margin-top: 2px;
+}
+.buttons .btn2{
+	margin-left: 25px;
+}
+.buttons button:hover{
+	background: #cc0000;
+}
+h1{
+	font-size: 28px;
+	color: aliceblue;
+}
+</style>
+<body>
+    <div class="wrapper">
+        <nav class="navbar">
+            <img class="logo" src="logo.jpg">
+            <ul>
+                <li><a href="shre.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="registration.html">Subscription</a></li>
+                <li><a href="contact.html">Contact us</a></li>
+                <li><a href="terms&conditio">Terms and Conditions</a></li>
+
+            </ul>
+        </nav>
+        <div class="center">
+                <h2>Welcome to our</h2>
+                <h3>Sport's club</h3>
+        </div>
+        <div class="Club">
+            <ul class="buttons">
+                <h1 style="text-align: center">Club Registration</h1>
+                <br><br>
+                <button type="button">Cricket</button><br>
+                <button type="button">FootBall</button><br>
+                <button type="button">Badminton</button><br>
+                <button type="button">BasketBall</button><br>
+                <button type="button">Tennis</button><br>
+            </ul>
+        </div>
+
+    </div>
+</body>
+
+</html>
